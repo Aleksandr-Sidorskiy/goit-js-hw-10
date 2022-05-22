@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/api-service.js"],"names":["BASE_URL"],"mappings":";AAAA,MAAMA,EAAW","file":"api-service.6aaabefc.js","sourceRoot":"../src","sourcesContent":["const BASE_URL = 'https://restcountries.com/v3.1/name/'"]}
